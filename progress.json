@@ -52,5 +52,14 @@
       "Great work with using git remote to add an upstream remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1769352239.594739,
+    "completed_at": 1769352242.22928,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
   }
 ]
